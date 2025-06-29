@@ -1,4 +1,5 @@
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150
+# Best Time to Buy And Sell
 
-status: solved
+## `https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/`
+
+## `https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150`

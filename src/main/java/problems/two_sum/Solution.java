@@ -22,6 +22,7 @@ public class Solution {
         int[] res = twoSum(arr, target);
 
         printArray(res);
+        sc.close();
     }
 
     public static int[] twoSum(int[] nums, int target) {

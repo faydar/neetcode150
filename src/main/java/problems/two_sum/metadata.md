@@ -1,5 +1,5 @@
-https://neetcode.io/problems/two-integer-sum?list=neetcode150
+# Two Sum
 
-https://leetcode.com/problems/two-sum/description
+## `https://neetcode.io/problems/two-integer-sum?list=neetcode150`
 
-status: solved
+## `https://leetcode.com/problems/two-sum/description`

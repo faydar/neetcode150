@@ -1,5 +1,5 @@
-https://neetcode.io/problems/is-palindrome?list=neetcode150
-https://leetcode.com/problems/valid-palindrome/description
+# Valid Palindrome
 
+## `https://neetcode.io/problems/is-palindrome?list=neetcode150`
 
-status: solved
+## `https://leetcode.com/problems/valid-palindrome/description`

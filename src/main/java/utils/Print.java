@@ -11,6 +11,12 @@ public class Print {
         System.out.println(arr[arr.length - 1]);
     }
 
+    public static void printArray(int[][] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            printArray(arr[i]);
+        }
+    }
+
     public static void printList(List<?> val) {
         for (int i = 0; i < val.size() - 1; i++) {
             System.out.print(val.get(i) + " ");
