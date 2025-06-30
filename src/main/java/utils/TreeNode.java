@@ -28,4 +28,8 @@ public class TreeNode {
         return this;
     }
 
+    public boolean isLeaf() {
+        return left == null && right == null;
+    }
+
 }
