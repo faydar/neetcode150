@@ -44,6 +44,7 @@ public class Solution {
 
     public static void main(String[] args) {
         var s = new Solution();
-        s.subsetsBitManipulation(new int[] { 1, 2, 3 });
+        s.subsetsBitManipulation(new int[] { 1, 2, 2 });
+        return;
     }
 }
