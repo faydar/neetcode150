@@ -43,6 +43,7 @@ public class Solution {
         return res;
     }
 
+    // interesting solution
     public int[] dailyTemperatures2(int[] temperatures) {
         int[] res = new int[temperatures.length];
 
