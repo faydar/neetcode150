@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.alien_dictionary.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "SolutionBinarySearch",
+      "request": "launch",
+      "mainClass": "problems.swim_in_rising_water.SolutionBinarySearch",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.swim_in_rising_water.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
       "name": "SolutionBetter",
       "request": "launch",
       "mainClass": "problems.serialize_and_deserialize_binary_tree.SolutionBetter",
