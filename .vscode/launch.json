@@ -1,0 +1,861 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SolutionBetter",
+      "request": "launch",
+      "mainClass": "problems.serialize_and_deserialize_binary_tree.SolutionBetter",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.binary_tree_maximum_path_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "SlidingWindowDequeue",
+      "request": "launch",
+      "mainClass": "problems.sliding_window_maximum.SlidingWindowDequeue",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Dequeue",
+      "request": "launch",
+      "mainClass": "utils.Dequeue",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.copy_list_with_random_pointer.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "SegmentTree",
+      "request": "launch",
+      "mainClass": "utils.SegmentTree",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.sliding_window_maximum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.largest_rectangle_in_histogram.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.reorder_list.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.coin_change_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.longest_common_subsequence.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.search_in_rotated_sorted_array.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.car_fleet.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.valid_paranthesis_string.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.add_two_numbers.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(1)",
+      "request": "launch",
+      "mainClass": "problems.best_time_to_buy_and_sell.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(2)",
+      "request": "launch",
+      "mainClass": "problems.best_time_to_buy_and_sell_with_cooldown.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(3)",
+      "request": "launch",
+      "mainClass": "problems.binary_search.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(4)",
+      "request": "launch",
+      "mainClass": "problems.bst_kth_smallest_element.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(5)",
+      "request": "launch",
+      "mainClass": "problems.cheapest_flight_within_k_stops.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(6)",
+      "request": "launch",
+      "mainClass": "problems.climbing_stairs.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(7)",
+      "request": "launch",
+      "mainClass": "problems.clone_graph.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(8)",
+      "request": "launch",
+      "mainClass": "problems.coin_change.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(9)",
+      "request": "launch",
+      "mainClass": "problems.combination_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(10)",
+      "request": "launch",
+      "mainClass": "problems.combination_sum_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(11)",
+      "request": "launch",
+      "mainClass": "problems.container_with_most_water.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(12)",
+      "request": "launch",
+      "mainClass": "problems.contains_duplicate.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(13)",
+      "request": "launch",
+      "mainClass": "problems.counting_bits.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(14)",
+      "request": "launch",
+      "mainClass": "problems.course_schedule.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(15)",
+      "request": "launch",
+      "mainClass": "problems.daily_temperatures.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(16)",
+      "request": "launch",
+      "mainClass": "problems.decode_ways.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Twitter",
+      "request": "launch",
+      "mainClass": "problems.design_twitter.Twitter",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "DetectSquares",
+      "request": "launch",
+      "mainClass": "problems.detect_squares.DetectSquares",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(17)",
+      "request": "launch",
+      "mainClass": "problems.diameter_of_binary_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(18)",
+      "request": "launch",
+      "mainClass": "problems.edit_distance.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(19)",
+      "request": "launch",
+      "mainClass": "problems.encode_and_decode_strings.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "MedianFinder",
+      "request": "launch",
+      "mainClass": "problems.find_median_from_data_stream.MedianFinder",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(20)",
+      "request": "launch",
+      "mainClass": "problems.gas_station.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(21)",
+      "request": "launch",
+      "mainClass": "problems.generate_parantheses.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(22)",
+      "request": "launch",
+      "mainClass": "problems.good_nodes_in_binary_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(23)",
+      "request": "launch",
+      "mainClass": "problems.graph_valid_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(24)",
+      "request": "launch",
+      "mainClass": "problems.group_anagrams.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(25)",
+      "request": "launch",
+      "mainClass": "problems.hand_of_straights.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(26)",
+      "request": "launch",
+      "mainClass": "problems.happy_number.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(27)",
+      "request": "launch",
+      "mainClass": "problems.insert_interval.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(28)",
+      "request": "launch",
+      "mainClass": "problems.interleaving_string.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(29)",
+      "request": "launch",
+      "mainClass": "problems.invert_binary_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(30)",
+      "request": "launch",
+      "mainClass": "problems.jump_game.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(31)",
+      "request": "launch",
+      "mainClass": "problems.jump_game_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(32)",
+      "request": "launch",
+      "mainClass": "problems.k_closest_points_to_origin.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(33)",
+      "request": "launch",
+      "mainClass": "problems.koko_eating_bananas.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(34)",
+      "request": "launch",
+      "mainClass": "problems.kth_largest_in_array.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "KthLargestWithCustomHeap",
+      "request": "launch",
+      "mainClass": "problems.kth_largest_in_stream.KthLargestWithCustomHeap",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "KthLargestWithPriorityQueue",
+      "request": "launch",
+      "mainClass": "problems.kth_largest_in_stream.KthLargestWithPriorityQueue",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(35)",
+      "request": "launch",
+      "mainClass": "problems.last_stone_weight.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(36)",
+      "request": "launch",
+      "mainClass": "problems.letter_combinations_of_phone_number.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(37)",
+      "request": "launch",
+      "mainClass": "problems.level_order_traversal.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(38)",
+      "request": "launch",
+      "mainClass": "problems.linked_list_cycle.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(39)",
+      "request": "launch",
+      "mainClass": "problems.longest_consecutive_sequence.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(40)",
+      "request": "launch",
+      "mainClass": "problems.longest_increasing_subsequence.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(41)",
+      "request": "launch",
+      "mainClass": "problems.longest_palindromic_substring.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(42)",
+      "request": "launch",
+      "mainClass": "problems.longest_repeating_character_replacement.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(43)",
+      "request": "launch",
+      "mainClass": "problems.longest_substr_without_repetition.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(44)",
+      "request": "launch",
+      "mainClass": "problems.lowest_common_ancestor.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "LRUCache",
+      "request": "launch",
+      "mainClass": "problems.lru_cache.LRUCache",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(45)",
+      "request": "launch",
+      "mainClass": "problems.max_area_of_island.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(46)",
+      "request": "launch",
+      "mainClass": "problems.maximum_depth_of_binary_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(47)",
+      "request": "launch",
+      "mainClass": "problems.maximum_product_subarray.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(48)",
+      "request": "launch",
+      "mainClass": "problems.meeting_rooms.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(49)",
+      "request": "launch",
+      "mainClass": "problems.merge_intervals.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(50)",
+      "request": "launch",
+      "mainClass": "problems.merge_triplets.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(51)",
+      "request": "launch",
+      "mainClass": "problems.merge_two_sorted_lists.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(52)",
+      "request": "launch",
+      "mainClass": "problems.min_cost_to_connect_all_points.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "MinStack",
+      "request": "launch",
+      "mainClass": "problems.min_stack.MinStack",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(53)",
+      "request": "launch",
+      "mainClass": "problems.minimum_in_rotated_sorted_array.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(54)",
+      "request": "launch",
+      "mainClass": "problems.missing_number.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(55)",
+      "request": "launch",
+      "mainClass": "problems.n_queens.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(56)",
+      "request": "launch",
+      "mainClass": "problems.network_delay_time.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(57)",
+      "request": "launch",
+      "mainClass": "problems.number_of_connected_components.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(58)",
+      "request": "launch",
+      "mainClass": "problems.number_of_islands.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(59)",
+      "request": "launch",
+      "mainClass": "problems.number_of_one_bits.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(60)",
+      "request": "launch",
+      "mainClass": "problems.pacific_atlantic_water_flow.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(61)",
+      "request": "launch",
+      "mainClass": "problems.palindromic_substrings.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(62)",
+      "request": "launch",
+      "mainClass": "problems.partition_equal_subset_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(63)",
+      "request": "launch",
+      "mainClass": "problems.partition_labels.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(64)",
+      "request": "launch",
+      "mainClass": "problems.permutation_in_string.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(65)",
+      "request": "launch",
+      "mainClass": "problems.permutations.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(66)",
+      "request": "launch",
+      "mainClass": "problems.plus_one.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Trie",
+      "request": "launch",
+      "mainClass": "problems.prefix_tree.Trie",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(67)",
+      "request": "launch",
+      "mainClass": "problems.product_of_array_except_self.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(68)",
+      "request": "launch",
+      "mainClass": "problems.remove_nth_from_end.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(69)",
+      "request": "launch",
+      "mainClass": "problems.reverse_bits.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(70)",
+      "request": "launch",
+      "mainClass": "problems.reverse_list.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(71)",
+      "request": "launch",
+      "mainClass": "problems.reverse_polish_notation.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(72)",
+      "request": "launch",
+      "mainClass": "problems.rotate_image.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(73)",
+      "request": "launch",
+      "mainClass": "problems.rotting_oranges.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(74)",
+      "request": "launch",
+      "mainClass": "problems.search_2d_matrix.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(75)",
+      "request": "launch",
+      "mainClass": "problems.single_number.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(76)",
+      "request": "launch",
+      "mainClass": "problems.subsets.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(77)",
+      "request": "launch",
+      "mainClass": "problems.subsets_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(78)",
+      "request": "launch",
+      "mainClass": "problems.sum_of_two_integers.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(79)",
+      "request": "launch",
+      "mainClass": "problems.surrounded_regions.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(80)",
+      "request": "launch",
+      "mainClass": "problems.target_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(81)",
+      "request": "launch",
+      "mainClass": "problems.three_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(82)",
+      "request": "launch",
+      "mainClass": "problems.top_k_frequent_elements.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(83)",
+      "request": "launch",
+      "mainClass": "problems.trapping_rain_water.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(84)",
+      "request": "launch",
+      "mainClass": "problems.two_sum.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(85)",
+      "request": "launch",
+      "mainClass": "problems.two_sum_II.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(86)",
+      "request": "launch",
+      "mainClass": "problems.unique_paths.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(87)",
+      "request": "launch",
+      "mainClass": "problems.valid_anagram.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(88)",
+      "request": "launch",
+      "mainClass": "problems.valid_palindrome.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(89)",
+      "request": "launch",
+      "mainClass": "problems.valid_parantheses.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(90)",
+      "request": "launch",
+      "mainClass": "problems.valid_sudoku.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(91)",
+      "request": "launch",
+      "mainClass": "problems.walls_and_gates.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(92)",
+      "request": "launch",
+      "mainClass": "problems.word_break.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "WordDictionary",
+      "request": "launch",
+      "mainClass": "problems.word_dictionary.WordDictionary",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(93)",
+      "request": "launch",
+      "mainClass": "problems.word_ladder.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution(94)",
+      "request": "launch",
+      "mainClass": "problems.word_search.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchTree",
+      "request": "launch",
+      "mainClass": "utils.BinarySearchTree",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "QuickSelect",
+      "request": "launch",
+      "mainClass": "utils.QuickSelect",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Trie(1)",
+      "request": "launch",
+      "mainClass": "utils.Trie",
+      "projectName": "neetcode150_db1acb65"
+    }
+  ]
+}
