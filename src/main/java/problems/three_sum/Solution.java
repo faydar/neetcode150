@@ -1,8 +1,5 @@
 package problems.three_sum;
 
-import static utils.Print.printList;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -48,7 +45,6 @@ public class Solution {
 
     private static void solveFor(int[] arr) {
         var result = threeSum(arr);
-        printList(result);
     }
 
     public static void main(String[] args) {

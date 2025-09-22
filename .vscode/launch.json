@@ -8,6 +8,139 @@
       "type": "java",
       "name": "Solution",
       "request": "launch",
+      "mainClass": "problems.reverse_nodes_in_k_group.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.merge_k_sorted_linked_lists.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.min_interval_to_include_each_query.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.median_of_two_sorted_array.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.task_scheduler.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.meeting_rooms_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.non_overlapping_intervals.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.palindrome_partitioning.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.multiply_strings.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.reverse_integer.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.find_the_duplicate_number.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.word_search_ii.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.set_matrix_zeroes.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.regular_expression_matching.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "SolutionTopologicalSort",
+      "request": "launch",
+      "mainClass": "problems.longest_increasing_path_in_matrix.SolutionTopologicalSort",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "SolutionDynamicProgramming",
+      "request": "launch",
+      "mainClass": "problems.longest_increasing_path_in_matrix.SolutionDynamicProgramming",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.distinct_subsequences.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.construct_binary_tree.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "problems.median_of_two_sorted_arrays.Solution",
+      "projectName": "neetcode150_db1acb65"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
       "mainClass": "problems.alien_dictionary.Solution",
       "projectName": "neetcode150_db1acb65"
     },

@@ -1,7 +1,5 @@
 package problems.two_sum;
 
-import static utils.Print.printArray;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -21,7 +19,6 @@ public class Solution {
         int target = sc.nextInt();
         int[] res = twoSum(arr, target);
 
-        printArray(res);
         sc.close();
     }
 

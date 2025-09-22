@@ -1,27 +1,20 @@
 package problems.trapping_rain_water;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution {
 
+    // intuition: an index can hold water as much as ->
+    // LM: max height to the left (not just the first greater!),
+    // RM: max height to the right
+    // min(LM, RM) - curHeight
+
+    // solve with two pointers
+
+    // solve with monotonic stack
     public int trap(int[] height) {
-        int[] nextBiggerIndex = new int[height.length];
 
-        // use monotonic stack to find first index with bigger element
-        Stack<Integer> st = new Stack<>();
-        for (int i = 0; i < height.length; i++) {
-            // System.out.println("height[i]: " + height[i] + "\n");
-            while (!st.isEmpty() && height[i] > height[st.peek()]) {
-                System.out.println("Popping: " + st.peek());
-                var p = st.pop();
-                nextBiggerIndex[p] = i;
-            }
-            System.out.println();
-
-            st.add(i);
-        }
-
-        return -1;
     }
 
     public static void main(String[] args) {
@@ -34,10 +27,6 @@ public class Solution {
 
         // System.out.println(new Solution().trap(new int[] { 4, 2, 0, 3, 2, 4, 3, 4
         // }));
-
-    }
-
-    public void passing() {
 
     }
 }
