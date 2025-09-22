@@ -34,6 +34,3 @@ out/production
 
 # .iml
 *.iml
-
-git config --global user.name "Furkan Aydar"
-git config --global user.email "furkanaydar.germany@gmail.com"
