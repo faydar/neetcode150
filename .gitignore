@@ -25,3 +25,15 @@ replay_pid*
 
 # input output txts
 *.txt
+
+# out/production
+out/production
+
+# .idea
+.idea
+
+# .iml
+*.iml
+
+git config --global user.name "Furkan Aydar"
+git config --global user.email "furkanaydar.germany@gmail.com"
